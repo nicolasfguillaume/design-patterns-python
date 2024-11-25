@@ -1,6 +1,8 @@
 # design-patterns-python
 
-![This Udemy course](https://www.udemy.com/course/design-patterns-python/) covers all the GoF design patterns:
+This repo contains my solutions to the exercises of the Udemy course https://www.udemy.com/course/design-patterns-python/
+
+This course covers all the GoF design patterns:
 
 - SOLID Design Principles: Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle and Dependency Inversion Principle
 
